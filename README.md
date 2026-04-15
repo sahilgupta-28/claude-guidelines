@@ -12,11 +12,11 @@ Each branch represents a specific tech stack and contains detailed documentation
 
 | Branch | Stack | Description |
 |--------|-------|-------------|
-| [`docs-nestjs`](https://github.com/sahilgupta-28/claude-guidelines/tree/docs-nestjs) | NestJS + PostgreSQL + Prisma | Backend API architecture with DTO validation, guards, repository pattern, Swagger docs, and Jest testing |
-| [`docs-nextjs`](https://github.com/sahilgupta-28/claude-guidelines/tree/docs-nextjs) | Next.js (App Router) + Prisma + Zod | Full-stack architecture using Server Components, Server Actions, API routes, and security best practices |
-| [`docs-reactjs`](https://github.com/sahilgupta-28/claude-guidelines/tree/docs-reactjs) | React (Client-side) + Zod | SPA architecture with API abstraction, validation, testing (RTL/MSW), and browser security |
-| [`docs-nodejs`](https://github.com/sahilgupta-28/claude-guidelines/tree/docs-nodejs) | Node.js (Express/Fastify) + Prisma + Zod | Layered backend architecture with middleware validation and integration testing |
-| [`docs-fastapi`](https://github.com/sahilgupta-28/claude-guidelines/tree/docs-fastapi) | FastAPI + SQLAlchemy + Pydantic | Async Python backend with dependency injection, migrations, and testing setup |
+| [`Nest.js`](https://github.com/sahilgupta-28/claude-guidelines/tree/nestjs) | NestJS + PostgreSQL + Prisma | Backend API architecture with DTO validation, guards, repository pattern, Swagger docs, and Jest testing |
+| [`Next.js`](https://github.com/sahilgupta-28/claude-guidelines/tree/nextjs) | Next.js (App Router) + Prisma + Zod | Full-stack architecture using Server Components, Server Actions, API routes, and security best practices |
+| [`React.js`](https://github.com/sahilgupta-28/claude-guidelines/tree/reactjs) | React (Client-side) + Zod | SPA architecture with API abstraction, validation, testing (RTL/MSW), and browser security |
+| [`Node.js`](https://github.com/sahilgupta-28/claude-guidelines/tree/nodejs) | Node.js (Express/Fastify) + Prisma + Zod | Layered backend architecture with middleware validation and integration testing |
+| [`FastApi`](https://github.com/sahilgupta-28/claude-guidelines/tree/fastapi) | FastAPI + SQLAlchemy + Pydantic | Async Python backend with dependency injection, migrations, and testing setup |
 
 ---
 
